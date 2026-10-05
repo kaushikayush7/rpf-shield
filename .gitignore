@@ -1,0 +1,28 @@
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.log
+
+# Arduino / PlatformIO / Build output
+build/
+.pio/
+*.elf
+*.bin
+*.hex
+
+# Computer Vision Haar Cascades / Downloaded assets
+haarcascade_frontalface_default.xml
+
+# System Files
+.DS_Store
+Thumbs.db

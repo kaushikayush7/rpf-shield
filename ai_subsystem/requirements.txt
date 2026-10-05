@@ -1,0 +1,6 @@
+opencv-python>=4.5.0
+deepface>=0.0.75
+scipy>=1.7.0
+requests>=2.25.0
+numpy>=1.21.0
+tf-keras>=2.15.0
